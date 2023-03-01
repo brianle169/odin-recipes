@@ -3,5 +3,23 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+ol, ul, p{
+    font-size: 20px;
+}
 
+ol, ul{
+    background-color: rgb(236, 236, 90);
+}
 
+h1, h2 {
+    font-style: italic;
+}
+
+ul li{
+    list-style: circle;
+}
+
+.description{
+    font-style: oblique;
+    background-color: rgb(220, 132, 132);
+}
